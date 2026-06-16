@@ -1,0 +1,79 @@
+# =====================================
+# Dependencies
+# =====================================
+
+frontend/node_modules/
+backend/node_modules/
+
+# =====================================
+# Environment Variables
+# =====================================
+
+frontend/.env
+backend/.env
+
+# =====================================
+# Build Files
+# =====================================
+
+frontend/dist/
+frontend/build/
+backend/dist/
+backend/build/
+
+# =====================================
+# Logs
+# =====================================
+
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# =====================================
+# OS Generated Files
+# =====================================
+
+.DS_Store
+Thumbs.db
+
+# =====================================
+# IDE Files
+# =====================================
+
+.vscode/
+.idea/
+*.swp
+
+# =====================================
+# Coverage Reports
+# =====================================
+
+coverage/
+*.lcov
+
+# =====================================
+# Temporary Files
+# =====================================
+
+tmp/
+temp/
+.cache/
+
+# =====================================
+# Runtime Files
+# =====================================
+
+*.pid
+*.seed
+*.pid.lock
+
+# =====================================
+# Optional: Package Lock Files
+# Uncomment if needed
+# =====================================
+
+# package-lock.json
+# yarn.lock
+# pnpm-lock.yaml
