@@ -537,7 +537,7 @@ function App() {
                 </div>
                 <div className="contact-card-details">
                   <h4>Email</h4>
-                  <a href="mailto:Shreevaishnav007@gmail.com">Shreevaishnav007@gmail.com</a>
+                  <a href="mailto:Shreevaishnav1905@gmail.com">Shreevaishnav1905@gmail.com</a>
                 </div>
               </div>
 
